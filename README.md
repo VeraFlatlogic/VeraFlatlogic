@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @VeraFlatlogic
-- 👀 I’m interested in hiring of IT Experts (React, Angular, Vue, Python)
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Veronika
+- 👀 I’m interested in hiring of IT Experts (developers, QA, UI/UX designers, BA, PM etc))
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: Telegram HRVeronika
 
 <!---
 VeraFlatlogic/VeraFlatlogic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
